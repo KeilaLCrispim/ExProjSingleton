@@ -16,7 +16,7 @@ namespace ProjetoSingleton
 
             Console.WriteLine(singleton2.numero);
 
-            singleton2.numero += 50;
+            singleton2.numero += 38;
 
             Console.WriteLine(singleton.numero);
 
